@@ -5,7 +5,7 @@ services:
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: python3 bot.py
-    repo: https://github.com/gangstar1010/File-sharing.git      
+    repo: https://github.com/Nikhil5757h/File-sharing.git      
     branch: main
     envVars:
       - key: TG_BOT_TOKEN 
