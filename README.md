@@ -5,12 +5,12 @@
    𝐒𝐇 𝐅𝐈𝐋𝐄 𝐒𝐓𝐎𝐑𝐄-𝐁𝐎𝐓
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+𝐒𝐇-𝐅𝐈𝐋𝐄-𝐒𝐓𝐎𝐑𝐄-𝐁𝐎𝐓!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+𝐅𝐈𝐋𝐄-𝐒𝐓𝐎𝐑𝐄-𝐁𝐎𝐓!)
 </p>
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@Yuva_raj777](https://www.telegram.dog/Yuva_raj777)**
+**If you need any more modes in repo or If you find out any bugs, mention in [@Nikhil5757h](https://www.telegram.dog/Nikhil5757h)**
 
 ### Features
 - Fully customisable.
@@ -30,7 +30,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Kushalhk/File-sharing">
+<a href="https://heroku.com/deploy?template=https://github.com/NikhilNGY/File-sharing">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 
 <details><summary>Deploy To Koyeb</summary>
@@ -44,9 +44,9 @@
 The fastest way to deploy the application is to click the **Deploy to Koyeb** button below.
 
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Kushalhk/File-Sharing&branch=main)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/NikhilNGY/File-Sharing&branch=main)
 
-<a href="https://render.com/deploy?repo=https://github.com/gangstar1010/File-sharing">
+<a href="https://render.com/deploy?repo=https://github.com/NikhilNGY/File-sharing">
   <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 
